@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TextEditor/1.0.0": {
+        "dependencies": {
+          "TextEditorModels": "1.0.0"
+        },
+        "runtime": {
+          "TextEditor.dll": {}
+        }
+      },
+      "TextEditorModels/1.0.0": {
+        "runtime": {
+          "TextEditorModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextEditorModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
